@@ -6,7 +6,7 @@ sagify:
     input_s3_dir: s3://demo071019/data
     output_s3_dir: s3://demo071019/output
     ec2_type: ml.m5.large
-    hyperparameters_file: hyperparameters.json
+    #hyperparameters_file: hyperparameters.json
     volume_size: 10
     timeout: 86400
     metrics: Accuracy
