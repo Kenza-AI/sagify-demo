@@ -7,7 +7,7 @@ import json
 
 import flask
 
-from . import predict
+from sagify_base.prediction.prediction import predict
 
 
 app = flask.Flask(__name__)
