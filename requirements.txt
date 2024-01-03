@@ -2,5 +2,5 @@ awscli
 joblib
 pandas
 protobuf==3.20.*
-sagify==0.21.3
+sagify
 scikit-learn
